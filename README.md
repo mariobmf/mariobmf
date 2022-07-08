@@ -10,8 +10,8 @@
 
 ### Sobre mim
 
-Graduado em Engenharia de Software, atuo como desenvolvedor de sistemas há mais de 6 anos.
+Graduado em Engenharia de Software, sou completamente apaixonado por tecnologia e sempre estou preparado para novos desafios, disposto a aprender e ensinar.
 
-💻 NodeJs, ReactJS, React Native, Typescript, PostgreSQL, TypeORM, Docker
+💻 JavaScript, TypeScript, NodeJs, PostgreSQL, MySQL, Docker, ReactJS, React Native, 
 
 ---
